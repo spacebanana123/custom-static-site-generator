@@ -1,0 +1,1 @@
+# custom-static-site-generator
