@@ -1,0 +1,98 @@
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: xx-large;
+    text-align: center;
+    color: #091540;
+}
+
+h2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: x-large;
+    text-align: center;
+    color: #091540;
+}
+
+h3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: large;
+    text-align: center;
+    color: #091540;
+}
+
+h4 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: small;
+    text-align: center;
+    color: #091540;
+}
+
+h5 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: medium;
+    text-align: center;
+    color: #091540;
+}
+
+p {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: medium;
+    color: #091540;
+}
+
+p {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: x-large;
+    color: #091540;
+}
+
+.button {
+    border: none;
+    color: #091540;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Lucida Console", "Courier New", monospace;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #5bc4b6;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color: #abd2fa;
+    font-size: 17px;
+}
+
+hr {
+    border: 2px solid #091540;
+    border-radius: 4px;
+    color: #091540;
+    margin: 05%;
+}
+
+a1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: medium;
+    color: #136F63;
+}
+
+a1:visited {
+    color: #136F63;
+}
+
+
+a1:hover {
+    color: #abd2fa;
+}
+
+
+a1:active {
+    color: #abd2fa;
+}
+
+body {
+    background-color: white;
+}
